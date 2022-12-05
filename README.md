@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abdul Rawoof
-- 👀 I’m interested in Full-stack development and Data Science
-- 🌱 I’m currently learning Full-stack
-- 💞️ I’m looking to collaborate on Data Science
+- 👀 I’m interested in Full-stack and Data Science
+- 🌱 I’m currently learning Full-stack development
+- 💞️ I’m looking forward to collaborate on Data Science
 - 📫 How to reach me abdul.raw21@gmail.com
 
 <!---
